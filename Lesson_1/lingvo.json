@@ -1,5 +1,4 @@
- i
-KEY = {str} 'YmEwNDQ0OGMtMzA5NC00NGNiLTg5NzQtZWIzYzdkMWZkZmJkOjBhZWMwMjA2ZDMwZTQ0NDNiYjAzNWRiMDhhMDNmMjUy'
+ KEY = {str} 'YmEwNDQ0OGMtMzA5NC00NGNiLTg5NzQtZWIzYzdkMWZkZmJkOjBhZWMwMjA2ZDMwZTQ0NDNiYjAzNWRiMDhhMDNmMjUy'
 URL_AUTH = {str} 'https://developers.lingvolive.com/api/v1.1/authenticate'
 URL_TRANSLATE = {str} 'https://developers.lingvolive.com/api/v1/Minicard'
 en_word = {str} 'victim'
